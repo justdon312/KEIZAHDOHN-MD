@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MD💥",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"UNIQUE MD",
+  "description":"UNIQUE MULTIDIVICE CREATED BY WASI",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/8825dbddf23e4be4ca05d.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "logo":"https://telegra.ph/file/924f379c95ebba81c0a3b.jpg",
+  "repository":"https://github.com/Itxxwasi/UNIQUE-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗕𝗠𝗪-𝗠𝗗",
+      "value":"𝗨𝗡𝗜𝗤𝗨𝗘 𝗠𝗗 𝗕𝗢𝗧",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/f889ad533e5b6d8fd8276.jpg,https://telegra.ph/file/d98532bb4aa4569e92afb.mp4",
+      "value":"https://telegra.ph/file/93b032886687a4af7a25b.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR IBRAHIM"
+    "value": "MR WASI"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254710772666"
+    "value": "923192173398"
   },
     "WARN_COUNT":
   {
