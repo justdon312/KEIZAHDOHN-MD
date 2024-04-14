@@ -1,6 +1,6 @@
 ```UNIQUE-MD-LITE```
 <p align="center">
-  <a href="https://github.com/wasixd/UNIQUE-MD">
+  <a href="https://github.com/Itxxwasi/UNIQUE-MD">
     <img alt="Unique docs" height="300" src="https://i.imgur.com/GTxuIJ0.jpeg">
   </a>
 </p>
@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center"> ♻️UNIQUE-MD♻️ </h1> 
+<h1 align="center"> ♻️UNIQUE-MD-LITE♻️ </h1> 
 
  ### ℹ️ **ABOUT UNIQUE-MD**
  Introducing UNIQUE-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
@@ -45,7 +45,7 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 
 
 ❏FORK THE REPOSITORY 
-  <a href="https://github.com/wasixd/UNIQUE-MD/fork" target="_blank">
+  <a href="https://github.com/Itxxwasi/UNIQUE-MD/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK UNIQUE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
