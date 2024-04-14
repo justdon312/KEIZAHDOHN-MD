@@ -854,7 +854,7 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔════◇
-║ 『𝐙𝐨𝐤𝐨𝐮-𝐌𝐃』
+║ 『ＷＡＳＩ ＳＥＲＶＥＲ ＡＣＴＩＶＥ』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commandes : ${evt.cm.length}︎
@@ -863,8 +863,7 @@ ${metadata.desc}`;
 ╔═════◇
 
 
- if there are somes error you can tell us :) 
- thanks you for choosing zokou MD
+ 𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝙲𝙷𝙾𝚂𝚂𝙸𝙽𝙶 𝚆𝙰𝚂𝙸 𝙲𝚁𝙴𝙰𝚃𝙸𝙾𝙽𝚂 \n 𝚕𝚎𝚝 𝚞𝚜 𝚔𝚗𝚘𝚠𝚜 𝚑𝚘𝚠 𝚠𝚎 𝚌𝚊𝚗 𝚑𝚎𝚕𝚙 𝚢𝚘𝚞 
 
 ╚══════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
