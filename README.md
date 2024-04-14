@@ -1,4 +1,4 @@
-```UNIQUE-MD```
+```UNIQUE-MD-LITE```
 <p align="center">
   <a href="https://github.com/wasixd/UNIQUE-MD">
     <img alt="Unique docs" height="300" src="https://i.imgur.com/GTxuIJ0.jpeg">
