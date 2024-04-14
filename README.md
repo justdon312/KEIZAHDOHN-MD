@@ -55,7 +55,7 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 ❏GET SESSION ID 
 (SCAN-QR)           
  
-<a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
+<a href="https://wasimdsession-1e81d378bcb6.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -72,7 +72,7 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 
 ☉Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/HARUKI-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/UNIQUE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
