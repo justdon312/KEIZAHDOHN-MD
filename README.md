@@ -55,7 +55,7 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 ❏GET SESSION ID 
 (SCAN-QR)           
  
-<a href="https://wasi-md-session-94e1490060bc.herokuapp.com/" target="_blank">
+<a href="https://wasimdscanner-68feefafb737.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
