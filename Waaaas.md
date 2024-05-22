@@ -1,4 +1,4 @@
-```UNIQUE-MD-LITE```
+```kevoo-md```
 <p align="center">
   <a href="https://github.com/Itxxwasi/UNIQUE-MD">
     <img alt="Unique docs" height="300" src="https://i.imgur.com/GTxuIJ0.jpeg">
@@ -10,7 +10,7 @@
 
 <h1 align="center"> ♻️UNIQUE-MD-LITE♻️ </h1> 
 
- ### ℹ️ **ABOUT UNIQUE-MD**
+ ### ℹ️ **ABOUT kevoo-md**
  Introducing UNIQUE-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
@@ -23,7 +23,7 @@
 
 
 ## ⭐ `Star This Repo`
-If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your appreciation,Support.
+If you find kevoo-Md helpful, consider giving it a star ⭐ to show your appreciation,Support.
 
 
 
