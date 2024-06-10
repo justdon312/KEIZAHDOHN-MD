@@ -1,5 +1,4 @@
-```UNIQUE-MD-LITE```
-<p align="center">
+watsonfourpence bot<p align="center">
   <a href="https://github.com/Itxxwasi/UNIQUE-MD">
     <img alt="Unique docs" height="300" src="https://i.imgur.com/GTxuIJ0.jpeg">
   </a>
