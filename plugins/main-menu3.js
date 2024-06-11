@@ -397,8 +397,9 @@ import {
    
     global.fcontact = { key: { fromMe: false, participant: `0@s.whatsapp.net`, remoteJid: 'status@broadcast' }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
     const infoText = `
-   🛡️ ${botname} 🛡️\n
-    Hᴀɪɪɪ ${name}👋🏻
+   🙆‍♂️🫶 ${botname} 🙆‍♂️🫶\n
+    Hᴀɪɪɪ ${name}👋🏻 \n
+    ${owner}
     
      ${readMore}
 
@@ -409,22 +410,22 @@ import {
 
   
   ╭━━⊱━━⊱⊱「ᴀʟʟ ᴍᴇɴᴜs」⊱⊱━━⊱━╮
-  │✫ -  *1.* ʙᴏᴛ ᴍᴇɴᴜ
-  │✫ -  *2.* ᴏᴡɴᴇʀ ᴍᴇɴᴜ
-  │✫ -  *3.* ɢʀᴏᴜᴘ ᴍᴇɴᴜ
-  │✫ -  *4.* ғᴜɴ ᴍᴇɴᴜ
-  │✫ -  *5.* ʀᴇᴀᴄᴛɪᴏɴ ᴍᴇɴᴜ
-  │✫ -  *6.* ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴍᴇɴᴜ
-  │✫ -  *7.* ɢᴀᴍᴇ ᴍᴇɴᴜ
-  │✫ -  *8.* ʟᴏɢᴏ ᴍᴇɴᴜ
-  │✫ -  *9.* sᴛɪᴄᴋᴇʀ ᴍᴇɴᴜ
-  │✫ -  *10.* ᴀᴜᴅɪᴏ ᴍᴇɴᴜ
-  │✫ -  *11.* ɴᴇᴡs ᴍᴇɴᴜ
-  │✫ -  *12.* sᴛᴜᴅʏ ᴍᴇɴᴜ
-  │✫ -  *13.* ᴛᴏᴏʟs ᴍᴇɴᴜ
-  │✫ -  *14.* ᴀɪ ᴍᴇɴᴜ
-  │✫ -  *15.* ʀᴇʟɪɢɪᴏɴ ᴍᴇɴᴜ
-  │✫ -  *16.* ᴘʟᴜɢɪɴ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *1.* ʙᴏᴛ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *2.* ᴏᴡɴᴇʀ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *3.* ɢʀᴏᴜᴘ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *4.* ғᴜɴ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *5.* ʀᴇᴀᴄᴛɪᴏɴ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *6.* ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *7.* ɢᴀᴍᴇ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *8.* ʟᴏɢᴏ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *9.* sᴛɪᴄᴋᴇʀ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *10.* ᴀᴜᴅɪᴏ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *11.* ɴᴇᴡs ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *12.* sᴛᴜᴅʏ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *13.* ᴛᴏᴏʟs ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *14.* ᴀɪ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *15.* ʀᴇʟɪɢɪᴏɴ ᴍᴇɴᴜ
+  │✫ 🙆‍♂️🫶 *16.* ᴘʟᴜɢɪɴ ᴍᴇɴᴜ
   ╰━━━━━━━━━━━━━━━━━━━━╯`
 ;
 
@@ -454,51 +455,51 @@ import {
     const choice = m.text.trim();
     
     if (choice === "1") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: botmenu
       }, { quoted: m});
       } else if (choice === "2") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: ownermenu
       }, { quoted: m});
       } else if (choice === "3") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "4") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: funmenu
       }, { quoted: m});
       } else if (choice === "5") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: reactmenu
       }, { quoted: m});
       } else if (choice === "6") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: dlmenu
       }, { quoted: m});
       } else if (choice === "7") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "8") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: logomenu
       }, { quoted: m});
       } else if (choice === "9") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: stickermenu
       }, { quoted: m});
       } else if (choice === "10") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: audiomenu
       }, { quoted: m});
       } else if (choice === "11") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: newsmenu
       }, { quoted: m});
       } else if (choice === "12") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: studymenu
       }, { quoted: m});
       } else if (choice === "13") {
@@ -506,15 +507,15 @@ import {
         caption: toolsmenu
       }, { quoted: m});
       } else if (choice === "14") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: Aimenu
       }, { quoted: m});
       } else if (choice === "15") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/2BnfZMp.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: religionmenu
       }, { quoted: m});
       } else if (choice === "16") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/lz7pElz.jpeg' },
         caption: pluginmenu
       }, { quoted: m});
       } else {
