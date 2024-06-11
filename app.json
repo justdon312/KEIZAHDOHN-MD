@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/itxwasi/wasi-bot",
+  "repository": "https://github.com/itxwasi/UNIQUE-MD",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
