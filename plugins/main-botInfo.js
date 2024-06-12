@@ -54,13 +54,20 @@ let infobt = `
 ▢ *${groupsIn.length - groupsIn.length}* abandoned groups
 ▢ *${chats.length - groupsIn.length}* private chats
 ▢ *${chats.length}* Total Chats
-
+HI DEAR USER ${name} follow wasi dev \n 
 *≡ OWNER🧑‍💻*
  _WASI TECH CHANNLE LINK_
 ▢ Follow the 𝗪𝗔𝗦𝗜___𝗧𝗘𝗖𝗛 channel on WhatsApp: https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
+*≡ INSTAGRAM;
+▢ Follow the 𝗪𝗔𝗦𝗜___𝗧𝗘𝗖𝗛 instagram : https://INSTAGRAM.com/itx_mee_wasi
+*≡ GITHUB;
+▢ Follow the 𝗪𝗔𝗦𝗜___𝗧𝗘𝗖𝗛 on github : https://github.com/Itxxwasi
+*≡ TELEGRAM;
+▢ Follow the 𝗪𝗔𝗦𝗜___𝗧𝗘𝗖𝗛 on telegram : t.me/wasitechx
+*≡ YOUTUBE;
+▢ Follow the 𝗪𝗔𝗦𝗜___𝗧𝗘𝗖𝗛 on youtube : https://youtube.com/ @wasitech1
+
   
-
-
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
 *🔵 FreeRAM:* ${format(freemem())}
@@ -72,7 +79,7 @@ conn.sendFile(m.chat, pp, 'prefil.jpg', infobt, m, false, { mentions: [who] })
 m.react(done)
 
 }
-handler.help = ['info']
+handler.help = ['wasi']
 handler.tags = ['main']
 handler.command = ['info', 'infobot', 'botinfo']
 
