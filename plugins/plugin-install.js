@@ -31,7 +31,7 @@ let handler = async (m, { text, usedPrefix, command }) => {
 
             // Write the Gist file content to the plugin file
             await fs.promises.writeFile(pluginPath, file.content);
-            m.reply(`PLUGINS INSTALLED ${plugin}`);
+            m.reply(`PLUGINS INSTALLED IN UNIQUE MD`);
         }
     } catch (error) {
         throw `Error fetching or saving the plugin: ${error.message}`;
