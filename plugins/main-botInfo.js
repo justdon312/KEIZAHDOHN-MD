@@ -54,7 +54,7 @@ let infobt = `
 ▢ *${groupsIn.length - groupsIn.length}* abandoned groups
 ▢ *${chats.length - groupsIn.length}* private chats
 ▢ *${chats.length}* Total Chats
-HI DEAR USER ${name} follow wasi dev \n 
+HI DEAR USER follow wasi dev \n 
 *≡ OWNER🧑‍💻*
  _WASI TECH CHANNLE LINK_
 ▢ Follow the 𝗪𝗔𝗦𝗜___𝗧𝗘𝗖𝗛 channel on WhatsApp: https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
