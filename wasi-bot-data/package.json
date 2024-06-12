@@ -1,5 +1,5 @@
 {
-"name": "Prince-MD",
+"name": "WASI-MD",
 "version": "1.7.0",
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -19,14 +19,14 @@
     
 "homepage": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT",
 "author": {
-"name": "MR GDS" },
+"name": "WASI" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/PRINCE-GDS/MR-PRINCE-BOT.git" },
+"url": "git+.git" },
 
 "bugs": {
-"url": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT/issues" },
+"url": "issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
