@@ -46,6 +46,9 @@
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
 
 ---------
+
+###  <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+### [FOLLOW WASI SER ON GITHUB](https://github.com/Itxxwasi)
 ### EXTRA SET-UP
 ### If you don't have mangodb you can use these public dB's
 #### MONGODB ARE NOT  REQUIRED 
