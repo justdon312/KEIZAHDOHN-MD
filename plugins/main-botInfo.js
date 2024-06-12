@@ -79,8 +79,8 @@ conn.sendFile(m.chat, pp, 'prefil.jpg', infobt, m, false, { mentions: [who] })
 m.react(done)
 
 }
-handler.help = ['wasi']
+handler.help = ['info']
 handler.tags = ['main']
-handler.command = ['info', 'infobot', 'botinfo']
+handler.command = ['info', 'wasi', 'wasii']
 
 export default handler
