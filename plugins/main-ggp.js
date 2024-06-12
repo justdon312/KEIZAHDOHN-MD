@@ -21,7 +21,7 @@ Follow the 𝗪𝗔𝗦𝗜___𝗧𝗘𝗖𝗛 channel on WhatsApp: https://what
 ★☆WASI MD☆★
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
 `.trim())
-handler.help = ['wasi']
+handler.help = ['info']
 handler.tags = ['main']
 handler.command = ['groups', 'groupprince', 'gugp', 'ggp', 'support'] 
 
