@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (WASI TECH)",
-  "description": " Whatsapp bot.",
+  "name": "UNIQUE-MD",
+  "description": " Whatsapp bot build by wàsi tech.",
   "keywords": [
-    "whatsapp bot"
+    "whatsapp bot","unique MD","unique-md-github","wasi-tech","wasi","unique bot"
   ],
-  "repository": "https://github.com/itxwasi/UNIQUE-MD",
+  "repository": "https://github.com/itxxwasi/UNIQUE-MD",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
