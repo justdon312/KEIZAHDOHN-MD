@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://youtu.be/@wasitech1">
     <img alt="Guru" height="300" src="https://i.imgur.com/CCr6l9P.jpeg">
-    <h1 align="center">UNIQUE-MD 2.O</h1>
+    <h1 align="center">𝐊𝐄𝐈𝐙𝐀𝐃𝐎𝐇𝐍 𝐌𝐃</h1>
   </a>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
  
-<h1 align="center">📍𝗪𝗔𝗦𝗜 𝗧𝗘𝗖𝗛📍</h1>
+<h1 align="center">📍DOHN TECH📍</h1>
 
 #### 🪩 To Change the owner number click here [Config](https://github.com/Itxxwasi/unique-md/blob/main/config.js#L8)🪩
 
@@ -48,7 +48,7 @@
 ---------
 
 ###  <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
-### [FOLLOW WASI SER ON GITHUB](https://github.com/Itxxwasi)
+### [FOLLOW DOHN ON GITHUB](https://github.com/justdon312)
 ### EXTRA SET-UP
 ### If you don't have mangodb you can use these public dB's
 #### MONGODB ARE NOT  REQUIRED 
