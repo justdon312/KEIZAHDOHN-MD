@@ -1,10 +1,10 @@
 let handler = m => m
 handler.all = async function (m, conn) {
     var vn = "https://github.com/Itxxwasi/WASI-MD/raw/main/Assets/mp3/alive.mp3"
-    let url = "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"
-    let murl = "https://youtube.com/@wasitech1"
+    let url = "https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P"
+    let murl = "https://chat.whatsapp.com/IhlJkw6hl4N80B1bxyfMmo"
     let hash = global.princebot
-    let img = "https://i.imgur.com/8ltcrED.jpeg"
+    let img = "https://telegra.ph/file/fa4152408c8d224dc5d3e.jpg"
     let num = "923192173398"
 
     let doc = {
