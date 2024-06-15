@@ -5,6 +5,7 @@
     "whatsapp bot","unique MD","keizadohn-md-github","dohn-tech","keiza","KEIZAHDOHN bot"
   ],
   "repository": "https://github.com/justdon312/KEIZAHDOHN-MD",
+  "logo": "https://github.com/justdon312/KEIZAHDOHN-MD",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
