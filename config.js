@@ -5,7 +5,7 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['254783853522', '𝐃𝐎𝐇𝐍', true],
+  ['254783853522', '𝐃𝐎𝐇𝐍', false],
   [''], 
   [''],
 ]
