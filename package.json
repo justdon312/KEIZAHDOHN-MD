@@ -1,5 +1,5 @@
 {
-"name": "UNIQUE-MD",
+"name": "KEIZAHDOHN-MD",
 "version": "1.7.0",
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/Itxxwasi/UNIQUE-MD",
+"homepage": "https://github.com/justdon312/KEIZAHDOHN-MD",
 "author": {
-"name": "MR WASI" },
+"name": "MR DOHN" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Itxxwasi/UNIQUE-MD.git" },
+"url": "git+https://github.com/justdon312/KEIZAHDOHN-MD.git" },
 
 "bugs": {
-"url": "https://github.com/Itxxwasi/UNIQUE-MD/issues" },
+"url": "https://github.com/justdon312/KEIZAHDOHN-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
