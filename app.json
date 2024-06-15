@@ -1,10 +1,10 @@
 {
-  "name": "UNIQUE-MD",
-  "description": " Whatsapp bot build by wàsi tech.",
+  "name": "𝐊𝐄𝐈𝐙𝐀𝐇𝐃𝐎𝐇𝐍-𝐌𝐃",
+  "description": " Whatsapp bot build by 𝐃𝐎𝐇𝐍.",
   "keywords": [
-    "whatsapp bot","unique MD","unique-md-github","wasi-tech","wasi","unique bot"
+    "whatsapp bot","unique MD","keizadohn-md-github","dohn-tech","keiza","KEIZAHDOHN bot"
   ],
-  "repository": "https://github.com/itxxwasi/UNIQUE-MD",
+  "repository": "https://github.com/justdon312/KEIZAHDOHN-MD",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
