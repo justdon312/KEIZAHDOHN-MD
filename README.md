@@ -67,7 +67,7 @@ mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=tr
 
 ```
 
-###  [SUBCRIBE MY YOUTUBE CHANNLE](https://youtube.com/@wasitech1)
+###  [FOLLOW MY WHATSAPP CHANNLE](https://whatsapp.com/channel/0029VahhyIm1noz80Dybyp0a)
 
 
 
