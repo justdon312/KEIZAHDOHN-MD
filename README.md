@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/@wasitech1">
-    <img alt="Dohn" height="300" src="https://i.imgur.com/CCr6l9P.jpeg">
+    <img alt="Dohn" height="300" src="https://telegra.ph/file/fa4152408c8d224dc5d3e.jpg">
     <h1 align="center">𝐊𝐄𝐈𝐙𝐀𝐃𝐎𝐇𝐍 𝐌𝐃</h1>
   </a>
 </p>
