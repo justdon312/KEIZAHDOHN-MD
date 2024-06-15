@@ -1,16 +1,16 @@
 <p align="center">  
   <a href="https://youtu.be/@wasitech1">
-    <img alt="Guru" height="300" src="https://i.imgur.com/CCr6l9P.jpeg">
+    <img alt="Dohn" height="300" src="https://i.imgur.com/CCr6l9P.jpeg">
     <h1 align="center">𝐊𝐄𝐈𝐙𝐀𝐃𝐎𝐇𝐍 𝐌𝐃</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/UNIQUE-MD-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/justdon312"><img title="Author" src="https://img.shields.io/badge/KEIZAHDOHN-MD-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/UNIQUE-MD?&style=social"></a>
-<a href="https://github.com/Itxxwasi/UNIQUE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/UNIQUE-MD?style=social"></a>
+<a href="https://github.com/justdon312/KEIZAHDOHN-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/UNIQUE-MD?style=social"></a>
 <a href="https://github.com/Itxxwasi/UNIQUE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/UNIQUE-MD?label=Watching&style=social"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FItxxwasi%2FUNIQUE-MD?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FItxxwasi%2FUNIQUE-MD.svg?type=shield"/></a>
 </p>
@@ -18,7 +18,7 @@
  
 <h1 align="center">📍DOHN TECH📍</h1>
 
-#### 🪩 To Change the owner number click here [Config](https://github.com/Itxxwasi/unique-md/blob/main/config.js#L8)🪩
+#### 🪩 To Change the owner number click here [Config](https://github.com/justdon312/KEIZAHDOHN-MD/blob/main/config.js#L8)🪩
 
 #### SETUP
 
@@ -47,7 +47,7 @@
 
 ---------
 
-###  <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+###  <a href="https://github.com/justdon312"><img src="https://github.com/justdon312.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
 ### [FOLLOW DOHN ON GITHUB](https://github.com/justdon312)
 ### EXTRA SET-UP
 ### If you don't have mangodb you can use these public dB's
